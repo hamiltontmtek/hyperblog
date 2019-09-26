@@ -15,6 +15,8 @@ body {
     margin: 0px auto;
 }
 
-#container h1{
-
+#cabecera {
+    background-color: blue;
+    color: white;
+    padding: 1rem;
 }
